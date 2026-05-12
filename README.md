@@ -18,21 +18,26 @@ aplicando buenas prácticas de estructura web y diseño responsivo.
 - Interfaz moderna y atractiva
 
 🛠️ Tecnologías utilizadas
+
 - HTML
 - CSS
 - JavaScript
 
 📚 Objetivo del proyecto
+
 Fortalecer habilidades en desarrollo web front-end mediante la creación de una experiencia interactiva 
 enfocada en animaciones, diseño visual y manipulación de elementos dinámicos.
 
 💻 Desarrollo
+
 El proyecto fue desarrollado en Visual Studio Code y posteriormente publicado en GitHub como parte de
 mi portafolio de proyectos personales y académicos.
 
 🌐 Estado del proyecto
+
 🟢 Finalizado
 
 👩‍💻 Autor
+
 Mariela Polín Flores  
 Estudiante de Ingeniería de Software con IA - SENATI

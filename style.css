@@ -13,7 +13,7 @@ body{
     position:relative;
 }
 
-/* ESTRELLAS */
+
 
 .estrellas{
     position:absolute;
@@ -36,7 +36,7 @@ body{
     }
 }
 
-/* TITULO */
+
 
 .titulo{
     position:absolute;
@@ -55,7 +55,7 @@ body{
     z-index:100;
 }
 
-/* ESCENA */
+
 
 .escena{
     width:100%;
@@ -66,7 +66,7 @@ body{
     position:relative;
 }
 
-/* CORAZON */
+
 
 .corazon{
     position:absolute;
@@ -117,7 +117,7 @@ body{
     }
 }
 
-/* ANILLOS */
+
 
 .anillo{
     position:absolute;
@@ -172,7 +172,7 @@ body{
     }
 }
 
-/* TEXTO */
+
 
 .texto{
     position:absolute;
@@ -197,7 +197,7 @@ body{
     transform-origin:0 0;
 }
 
-/* FOTOS */
+
 
 .foto{
     position:absolute;
@@ -221,7 +221,7 @@ body{
     object-fit:cover;
 }
 
-/* POSICIONES */
+
 
 .foto1{
     top:120px;
@@ -259,7 +259,7 @@ body{
     top:42%;
 }
 
-/* MOVIMIENTO */
+
 
 @keyframes flotar{
 

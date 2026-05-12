@@ -25,7 +25,7 @@ function crearTextoCircular(id, texto, radio){
 
 }
 
-/* TEXTOS */
+
 
 crearTextoCircular(
 "texto1",
